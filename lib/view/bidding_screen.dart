@@ -175,7 +175,12 @@ class _BiddingScreenState extends State<BiddingScreen> {
                         ),
                       ),
                       onPressed: () {
-                        showCustomModal(context, const CustomModalSheet());
+                        showCustomModal(
+                            context,
+                            CustomModalSheet(
+                              title: "Add New Bid",
+                              id: widget.productId,
+                            ));
                       },
                       child: const Center(
                         child: Text("Bid",
