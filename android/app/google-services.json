@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582646316472",
+    "project_id": "qube-324b4",
+    "storage_bucket": "qube-324b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582646316472:android:84e1db29d5aa5e838be34d",
+        "android_client_info": {
+          "package_name": "com.example.qube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582646316472-3qqakut8af66grisit56eobc48rop9n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qube",
+            "certificate_hash": "738af253c7e4bc7f5385e5fa1e7eafdfcb48d249"
+          }
+        },
+        {
+          "client_id": "582646316472-iskrk5n8el8i16fr4kc8ulosb2h7iqqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWrFEzcyb2vbCRqLVK0lRol1fGIbqHHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582646316472-iskrk5n8el8i16fr4kc8ulosb2h7iqqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
